@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1f1f1f; /* Dark background */
+  color: #ffffff; /* Light text */
+  text-align: center;
+}
+
+#app {
+  margin: 20px auto;
+  padding: 20px;
+  background: #2a2a2a; /* Darker card background */
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  max-width: 600px;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #444; /* Darker border */
+  border-radius: 5px;
+  background: #333; /* Dark input background */
+  color: #ffffff;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50; /* Green button */
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+#commitGraph {
+  display: grid;
+  grid-template-columns: repeat(52, 40px); /* 52 weeks */
+  grid-template-rows: repeat(7, 40px); /* 7 days */
+  gap: 5px;
+  justify-content: center;
+}
+
+.square {
+  width: 40px;
+  height: 40px;
+  background-color: #ebedf0; /* Light gray */
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.square:hover {
+  background-color: #d0d7de; /* Darker gray on hover */
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Commit Drawer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <h1>Commit Drawer</h1>
+      <div class="input-group">
+        <input type="text" id="username" placeholder="GitHub Username" />
+        <input type="text" id="repo" placeholder="Repository Name" />
+        <input
+          type="text"
+          id="token"
+          placeholder="GitHub Token"
+          type="password"
+        />
+        <button id="saveCommits">Save Commits</button>
+      </div>
+      <div id="commitGraph"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
