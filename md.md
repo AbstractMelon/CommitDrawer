@@ -1,26 +1,27 @@
-Hello all, fruticans here!
+Hey everyone, fruticans here!
 
-Do you really want your socoity filled with blc propaganda? Do you want to be living in a world where everything is blc? Or would you rather live in a free, open world. If you join us and the fruiticans, we will make sure everyone has **EQUAL RIGHTS!** and make sure the world will be a great place.
+Do you want to live in a free Bopl society without restrictions? Dream of a world where openness and opportunity thrive? Join us, the fruticans! We’ll make sure everyone has **EQUAL RIGHTS!** We believe in a community where everyone can follow their passions and make a great place to live.
 
-From olis speech, he states that he will "crush all", do you want to be crushed? that sounds like a resieme that will cause much harm to the bopl society. We want freedom
+Oli said he would "crush all." Do you want that? Sounds like a regime that will hurt our Bopl society and take away the freedoms we value. We want a world where people are empowered and respected, not silenced. With the fruticans, we protect everyone’s freedoms and build a better society together.
 
-By supporting the fruiticans you support freedom. We will not restirct access or spread blc propaganda and we promise a better socity where your dreams can come true.
+By supporting the fruticans, you support freedom and fairness. We won’t restrict access to anything. Everyone should have the chance to chase their dreams without barriers. Our goal is to create a place where your aspirations can come true, and everyone’s potential is celebrated.
 
-As the fruiticans, we promise to be unbiased and hold votes for power and organise the socity to be a better world for everybody involved.
+We promise to be unbiased and hold community elections for all leadership positions. We know accountability matters, and we’ll use our power responsibly. Our decisions will reflect the needs of everyone, making sure every voice is heard.
 
 ### BONUSES
 
-We promise the following:
+Here’s what we promise:
 
-- Cow Games sneak peaks
-- Unbiased ruling
-- A Better bopl
-- Community based desicions
-- and more!
+- Sneak peeks of Cow Games
+- Unbiased leadership
+- A better Bopl
+- Community-based decisions
+- Equal opportunities for all
+- And more!
 
-### EXTRA PARAGRAPH!
+### EXTRA NEWS!
 
 :warning: BREAKING NEWS! :warning:
-WE JUST WATCHED OLI COMMIT VOTER FRAUD! HE JUST INVITED MANY BIASED VOTERS TO VOTE FOR HIM, IN DOING SO HE IS COMMITING A CRIME AND GOING AGAINST HIS OWNE SPEECH! DO YOU WANT A HYPOCRIT AS PRESIDENT?
+We just saw Oli commit voter fraud! He invited biased voters to support him, breaking his own rules! Do you want a hypocrite as president?
 
-Join the fruiticans today!
+Join the fruticans today! Together, we can create a fair and just society for everyone!
